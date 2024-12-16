@@ -1,0 +1,14 @@
+C:\Users\Rafli\source\repos\ConsolePOKEMON\ConsolePOKEMON\bin\Debug\net8.0\ConsolePOKEMON.exe
+C:\Users\Rafli\source\repos\ConsolePOKEMON\ConsolePOKEMON\bin\Debug\net8.0\ConsolePOKEMON.deps.json
+C:\Users\Rafli\source\repos\ConsolePOKEMON\ConsolePOKEMON\bin\Debug\net8.0\ConsolePOKEMON.runtimeconfig.json
+C:\Users\Rafli\source\repos\ConsolePOKEMON\ConsolePOKEMON\bin\Debug\net8.0\ConsolePOKEMON.dll
+C:\Users\Rafli\source\repos\ConsolePOKEMON\ConsolePOKEMON\bin\Debug\net8.0\ConsolePOKEMON.pdb
+C:\Users\Rafli\source\repos\ConsolePOKEMON\ConsolePOKEMON\obj\Debug\net8.0\ConsolePOKEMON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafli\source\repos\ConsolePOKEMON\ConsolePOKEMON\obj\Debug\net8.0\ConsolePOKEMON.AssemblyInfoInputs.cache
+C:\Users\Rafli\source\repos\ConsolePOKEMON\ConsolePOKEMON\obj\Debug\net8.0\ConsolePOKEMON.AssemblyInfo.cs
+C:\Users\Rafli\source\repos\ConsolePOKEMON\ConsolePOKEMON\obj\Debug\net8.0\ConsolePOKEMON.csproj.CoreCompileInputs.cache
+C:\Users\Rafli\source\repos\ConsolePOKEMON\ConsolePOKEMON\obj\Debug\net8.0\ConsolePOKEMON.dll
+C:\Users\Rafli\source\repos\ConsolePOKEMON\ConsolePOKEMON\obj\Debug\net8.0\refint\ConsolePOKEMON.dll
+C:\Users\Rafli\source\repos\ConsolePOKEMON\ConsolePOKEMON\obj\Debug\net8.0\ConsolePOKEMON.pdb
+C:\Users\Rafli\source\repos\ConsolePOKEMON\ConsolePOKEMON\obj\Debug\net8.0\ConsolePOKEMON.genruntimeconfig.cache
+C:\Users\Rafli\source\repos\ConsolePOKEMON\ConsolePOKEMON\obj\Debug\net8.0\ref\ConsolePOKEMON.dll
